@@ -2,7 +2,7 @@
 // Network-first: when you are online you always get the newest version from GitHub,
 // and the cached copy is only used when you are offline.
 // Bump CACHE when you want to force old caches to be cleared.
-const CACHE = 'creator-studio-v1';
+const CACHE = 'creator-studio-v2';
 const ASSETS = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', e => {

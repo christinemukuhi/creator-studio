@@ -14,6 +14,26 @@ month calendar, and backups. It runs entirely in your browser and installs like 
 | `icon-192.png`, `icon-512.png`, `icon-maskable-512.png` | App icons. |
 | `.nojekyll` | Tells GitHub to serve the files as they are. Optional; it is a hidden file. |
 
+## Marketing plan (new in 1.1)
+
+The old Pinterest Plan tab is now a **Marketing Plan** for any platform. Pick Pinterest, Instagram, TikTok, Facebook, YouTube,
+LinkedIn, X, an email newsletter, a marketplace like Etsy, a blog, or your own custom platform. The checklist, keyword bank and
+weekly rhythm change to match, and you can add your own checklist steps. The calendar holds posts for every platform at once.
+
+Click any day on the calendar to write notes for that day, add posts, edit each post's title and caption text, and attach
+images or files to the day or to a post. Attached files are stored in this browser (like the Files tab) and are not included in backups.
+
+## The pricing calculator
+
+It works out what to charge. Pick your platform (fees fill in), enter your costs, then say what you want to earn: take-home per month,
+sales per month and how fast to earn back the creation cost. It shows a recommended price, and you can test any other price.
+
+## More platforms in the calculator
+
+In **Pricing Calculator > Load fees from** (and in **Settings > Platforms and fees**) you can add ready-made rates for Etsy,
+Payhip, Stan Store, Ko-fi, Sellfy, Shopify, Lemon Squeezy and your own website with Stripe. They are approximate US dollar rates.
+Check each platform's pricing page and edit any number. Monthly plan costs are not per-sale fees, so add them to your monthly costs.
+
 ## Put it on GitHub Pages (no command line needed)
 
 1. Sign in at github.com and click **New repository**. Name it, for example, `creator-studio`.
